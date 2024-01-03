@@ -1,4 +1,4 @@
-#import "./typstempl/template/cosheet.typ": cosheet
+#import "./typstempl/cosheet.typ": cosheet
 #show: doc => cosheet(doc)
 
 = java基础
